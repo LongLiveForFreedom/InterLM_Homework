@@ -26,3 +26,12 @@
 ## Metrics
 acc, recall, f1 score, bleu, rouge
 tool: RAGAS, ARES, TruLens
+# Huixiangdou
+- 智能客服：技术支持、领域知识对话
+  - 群组中存在闲聊
+  - parse users' intent
+- protocol: BSD-3-Clasue
+- workflow
+  <img width="382" alt="Screenshot 2024-04-12 at 09 13 21" src="https://github.com/LongLiveForFreedom/InterLM_Homework/assets/89987363/d08b0db2-ad90-44a5-b13b-ebba91356c8e">
+  <img width="582" alt="Screenshot 2024-04-12 at 09 13 48" src="https://github.com/LongLiveForFreedom/InterLM_Homework/assets/89987363/beaf0091-3f9c-41b6-919e-053b9611f568">
+
